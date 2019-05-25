@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "OfertAS E dESCONTOD dO SOLUÇÃO dIGITAL",
-    "currentPage": "SolutUp.html",
+    "currentPage": "lySollutUP.lySollutUP.ioNegocioPacotes.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -42,7 +42,7 @@
         "url": "https://fonts.googleapis.com/css?family=Anton:400"
       }
     ],
-    "uniqCompNum": 16,
+    "uniqCompNum": 14,
     "versionPublish": "4.9.7",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
@@ -51,20 +51,20 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "",
-    "gdpr": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "sitemapSwitcher": "on",
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "00.lySollutUP.lySollutUP.ioNegocioPacotes.html": {
+    "SolutUp.html": {
       "settings": {
-        "main": true,
-        "title": "pagina inicial",
+        "title": "SollucaoDigital/",
         "meta_descr": "Alanvancagem em seus negócios hoje!",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -1075,14 +1075,14 @@
         }
       ]
     },
-    "SolutUp.html": {
+    "lySollutUP.lySollutUP.ioNegocioPacotes.html": {
       "settings": {
-        "title": "SollucaoDigital/",
+        "main": true,
+        "title": "pagina inicial",
         "meta_descr": "Alanvancagem em seus negócios hoje!",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "order": 1
+        "html_before": ""
       },
       "components": [
         {
