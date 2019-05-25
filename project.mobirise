@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "OfertAS E dESCONTOD dO SOLUÇÃO dIGITAL",
-    "currentPage": "httpssollucaodigital.github.ioNegocioPacotes.html",
+    "currentPage": "impulsione.github.ioNegocioPacotes.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,20 +44,20 @@
     ],
     "uniqCompNum": 14,
     "versionPublish": "4.9.7",
-    "siteUrl": "http://bit.ly/NegocioPacotes",
+    "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "Nossa empresa tem se dedicado constantemente em fazer produtos ou serviços de pessoas normais crescerem de for escalavél. Se você não colocou o seu negócio a mostra das pessoas, como você venderá para elas?\r\nÉ penssando nisso que criamos esse plano para que seu negócio cresça, sendo sua cara, mas o gosto do seu cliente. ",
+    "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "sitemapSwitcher": "on",
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "httpssollucaodigital.github.ioNegocioPacotes.html": {
+    "impulsione.github.ioNegocioPacotes.html": {
       "settings": {
         "main": true,
         "title": "Impulsionamento",
