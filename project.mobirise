@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "OfertAS E dESCONTOD dO SOLUÇÃO dIGITAL",
-    "currentPage": "github.ioNegocioPacotes.html",
+    "currentPage": "SollutUP.ioNegocioPacotes.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -57,11 +57,11 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "github.ioNegocioPacotes.html": {
+    "SollutUP.ioNegocioPacotes.html": {
       "settings": {
         "main": true,
-        "title": "Impulsionamento",
-        "meta_descr": "Alavanque seu negócio de maneira inteligente. Nós nos comprometemos em fazer sua empresa crescer de maneira seria e saudável. \nPlanos ideias que cabem no seu orçamento com muita facilidade. Mas Corra pois é por tempo limitado.\nLogo após a oferta irá subir em seu valores consideravelmente.\n\nCaso você queira investir um valor menor. Entre em Contato, e nossa equipe vai te auxiliar ",
+        "title": "pagina inicial",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
