@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "OfertAS E dESCONTOD dO SOLUÇÃO dIGITAL",
-    "currentPage": "impulsione.github.ioNegocioPacotes.html",
+    "currentPage": "github.ioNegocioPacotes.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -57,7 +57,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "impulsione.github.ioNegocioPacotes.html": {
+    "github.ioNegocioPacotes.html": {
       "settings": {
         "main": true,
         "title": "Impulsionamento",
